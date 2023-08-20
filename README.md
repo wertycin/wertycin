@@ -11,6 +11,8 @@
 </p>
 <p align="left">
 <img src="assets/logo/mipt_rus_png.png" width="500px">
+ </p>
+ <p align="right">
  <img src="assets/logo/Того_ФЭФМ.png" width="300px">
 </p>
 
