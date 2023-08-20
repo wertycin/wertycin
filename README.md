@@ -12,7 +12,8 @@
 
 <p align="left">
 <img src="assets/logo/mipt_rus_png.png" height="200px">
-<p align="right">
+
+ 
 <img src="assets/logo/Того_ФЭФМ.png" height="200px">
 </p>
 
