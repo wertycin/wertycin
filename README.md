@@ -12,6 +12,11 @@
 <p align="center">
 <img src="assets/logo/mipt_rus_png.png" width="500px">
 </p>
+<p align="center">
+<img src="assets/logo/Того_ФЭФМ.png" width="500px">
+</p>
+
+
 - :telescope: Участвовал в бассейне Школы 21 от Сбера.
 
 - :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
