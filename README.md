@@ -24,4 +24,5 @@
 <p align="center">
  <img src="assets/logo/mipt_rus_png.png" height="100px" align="left">
  <img src="assets/logo/Того_ФЭФМ.png" height="100px" align="left">
+ <img src="assets/logo/dora.jpg" height="100px" align="left">
  </p>
