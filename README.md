@@ -14,8 +14,8 @@
  <img src="assets/logo/Того_ФЭФМ.png" height="200px" align="right">
 </p>
 
----
-
+<p align="center">
+</p>
 - :man_student: Студент Физтеха.
 
 - :bank: Участвовал в бассейне Школы 21 от Сбера.
