@@ -9,9 +9,9 @@
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
-<p align="center">
+<p align="left">
 <img src="assets/logo/mipt_rus_png.png" width="500px">
- <img src="assets/logo/Того_ФЭФМ.png" width="500px">
+ <img src="assets/logo/Того_ФЭФМ.png" width="300px">
 </p>
 
 
