@@ -4,10 +4,10 @@
  <img width="600" src="assets/github-snake.svg" alt="snake">
 </p>
 
-### :man_technologist: Обо мне:
+### :sunglasses: Обо мне:
 - :man_student: Студент 4 курса ФЭФМ МФТИ.
 - :bank: Участвовал в бассейне Школы 21 от Сбера.
-### :sunglasses: Мои интересы:
+### :man_technologist: Мои интересы:
 - :magnet: Физика
 - :test_tube: Химия
 - :infinity: Математика
