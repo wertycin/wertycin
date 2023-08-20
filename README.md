@@ -10,6 +10,11 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
+<p align="center">
+ <img width="600" src="assets/logo/mipt_rus_png.png>
+</p>
+
+
 - :telescope: Участвовал в бассейне Школы 21 от Сбера.
 
 - :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
