@@ -21,5 +21,3 @@
  <img src="assets/logo/Того_ФЭФМ.png" height="100px">
  <img src="assets/logo/dora3.jpg" height="100px">
 </p>
-
----
