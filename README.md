@@ -10,12 +10,10 @@
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-<p align="center">
  <img src="assets/logo/mipt_rus_png.png" height="200px" align="left" alt="mipt"/>
  <img src="assets/logo/Того_ФЭФМ.png" height="200px" align="right" alt="fefm"/>
 </p>
+
 
 
 
