@@ -14,7 +14,7 @@
  <img src="assets/logo/Того_ФЭФМ.png" height="200px" align="right">
 </p>
 
-
+---
 
 - :man_student: Студент Физтеха.
 
