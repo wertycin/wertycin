@@ -10,7 +10,7 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-
+<img src="assets/logo/mipt_rus_png.png" width="500px">
 
 - :telescope: Участвовал в бассейне Школы 21 от Сбера.
 
