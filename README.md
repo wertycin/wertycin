@@ -10,10 +10,8 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 <p align="left">
-<img src="assets/logo/mipt_rus_png.png" width="500px">
- </p>
- <p align="right">
- <img src="assets/logo/Того_ФЭФМ.png" width="300px">
+<img src="assets/logo/mipt_rus_png.png" width="400px">
+ <img src="assets/logo/Того_ФЭФМ.png" width="200px">
 </p>
 
 
